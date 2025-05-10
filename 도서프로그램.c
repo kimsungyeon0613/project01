@@ -244,7 +244,7 @@ int check_login(const char* id, const char* pw) {
 
 void ErrorHandling(const char* msg) {
     fputs(msg, stderr);
-    fputc('\\n', stderr);
+    fputc('\n', stderr);
     exit(1);
 }
 
