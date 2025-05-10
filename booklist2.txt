@@ -1,0 +1,20 @@
+1	Charlotte's Web E.B. White 4.19
+2	The Secret Garden Frances Hodgson Burnett 4.15
+3	"The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)" C.S. Lewis 4.23
+4	"Anne of Green Gables (Anne of Green Gables, #1)" L.M. Montgomery 4.29
+5	Little Women Louisa May Alcott 4.13
+6	Matilda Roald Dahl 4.33
+7	"Charlie and the Chocolate Factory (Charlie Bucket, #1)" Roald Dahl 4.15
+8	Where the Wild Things Are Maurice Sendak 4.23
+9	"Little House in the Big Woods (Little House, #1)" Laura Ingalls Wilder 4.12
+10	"A Wrinkle in Time (A Wrinkle in Time Quintet, #1)" Madeleine L'Engle 3.99
+11	"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)" J.K. Rowling 4.47
+12	"The Hobbit (The Lord of the Rings, #0)" J.R.R. Tolkien 4.28
+13	Where the Sidewalk Ends Shel Silverstein 4.32
+14	Green Eggs and Ham Dr. Seuss 4.3
+15	"Little House on the Prairie (Little House, #3)" Laura Ingalls Wilder 4.21
+16	A Little Princess Frances Hodgson Burnett 4.21
+17	"Pippi Longstocking (Pippi L?ngstrump, #1)" Astrid Lindgren 4.14
+18	"Winnie-the-Pooh (Winnie-the-Pooh, #1)" A.A. Milne 4.35
+19	Heidi Johanna Spyri 4.01
+20	The Very Hungry Caterpillar Eric Carle 4.31
